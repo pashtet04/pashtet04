@@ -1,4 +1,6 @@
-### Hi there 👋
+![Hello, my name is Pavel Klyuev 👋](header.png)
+
+## Data Platform Site reliability engineer at [ADEO](https://github.com/adeo/)
 
 <!--
 **pashtet04/pashtet04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

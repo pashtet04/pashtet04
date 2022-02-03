@@ -2,7 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&multiline=true&lines=Data+platform+Site+reliability+enginer;at+ADEO)](https://git.io/typing-svg)
 
 # About me
-The beginning of [Kuberty](https://t.me/kubertat) // SRE at [Leroy Merlin](https://github.com/adeo)
+The beginning of <a href="https://t.me/pklyuev" target="blank"><img align="center" src="telegram.svg" alt="t.me/pklyuev" height="16" width="16" /></a>
+[Kuberty](https://t.me/kubertat) // SRE at [Leroy Merlin](https://github.com/adeo)
 
 Evil genius // Toxic single-minded // Digital addicted
 

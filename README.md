@@ -7,7 +7,7 @@ Evil genius // Toxic single-minded // Digital addicted
 
 ### Main skills
 <img src="kubernetes.svg" height="32"/>
-
+<img align="center" src="kubernetes.svg" alt="kubernetes" height="60" width="60" />
 <!--
 **pashtet04/pashtet04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

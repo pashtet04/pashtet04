@@ -3,6 +3,7 @@
 
 # About me
 The beginning of Kuberty // SRE at [Leroy Merlin](https://github.com/adeo)
+
 Evil genius // Toxic single-minded // Digital addicted
 
 ### Main skills
@@ -19,6 +20,8 @@ Evil genius // Toxic single-minded // Digital addicted
 ### Contacts
 <a href="https://t.me/pklyuev" target="blank"><img align="center" src="telegram.svg" alt="t.me/pklyuev" height="35" width="35" /></a>
 <a href="https://www.linkedin.com/in/pklyuev/" target="blank"><img align="center" src="linkedin.svg" alt="linkedin.com/in/pklyuev" height="35" width="35" /></a>
+<a href="https://twitter.com/pklyuev" target="blank"><img align="center" src="twitter.svg" alt="twitter.com/pklyuev" height="35" width="35" /></a>
+<a href="https://www.facebook.com/pklyuev/" target="blank"><img align="center" src="linkedin.svg" alt="fb.me/pklyuev/" height="35" width="35" /></a>
 
 <!--
 **pashtet04/pashtet04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

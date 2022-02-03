@@ -5,6 +5,9 @@
 The beginning of Kuberty // SRE at [Leroy Merlin](https://github.com/adeo)
 Evil genius // Toxic single-minded // Digital addicted
 
+### Main skills
+![Kubernetes](kubernetes.svg)
+
 <!--
 **pashtet04/pashtet04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

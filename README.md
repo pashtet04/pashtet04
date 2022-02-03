@@ -23,6 +23,7 @@ Evil genius // Toxic single-minded // Digital addicted
 <a href="https://twitter.com/pklyuev" target="blank"><img align="center" src="twitter.svg" alt="twitter.com/pklyuev" height="35" width="35" /></a>
 <a href="https://www.facebook.com/pklyuev/" target="blank"><img align="center" src="linkedin.svg" alt="fb.me/pklyuev/" height="35" width="35" /></a>
 
+![](https://komarev.com/ghpvc/?username=pashtet04)
 <!--
 **pashtet04/pashtet04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

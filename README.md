@@ -1,6 +1,7 @@
 ![Hello, my name is Pavel Klyuev 👋](header.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&multiline=true&lines=Data+platform+Site+reliability+enginer;at+ADEO)](https://git.io/typing-svg)
 
-## Data Platform Site reliability engineer at [ADEO](https://github.com/adeo/)
+# Data platform Site reliability engineer 💻 at [ADEO](https://github.com/adeo/)
 
 <!--
 **pashtet04/pashtet04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

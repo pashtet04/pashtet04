@@ -7,7 +7,7 @@ The beginning of <a href="https://t.me/pklyuev" target="blank"><img align="cente
 
 Evil genius // Toxic single-minded // Digital addicted
 
-### Main skills
+### Common skills
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)

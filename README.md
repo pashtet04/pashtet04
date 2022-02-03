@@ -16,7 +16,7 @@ Evil genius // Toxic single-minded // Digital addicted
 
 ### Top langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![codewars](https://www.codewars.com/users/username/badges/large)](URL:https://www.codewars.com/users/pashtet04/badges/large?theme=light)   
+[![codewars](https://www.codewars.com/users/pashtet04/badges/large?theme=light)](https://www.codewars.com/users/pashtet04)   
 
 ### Tools I'm using
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)

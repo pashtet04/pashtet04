@@ -17,7 +17,7 @@ Evil genius // Toxic single-minded // Digital addicted
 
 
 ### Contacts
-<a href="https://t.me/pklyuev" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/d71898e2a08f31fd3f9512a9d30d3cb1d025a649/icons/habr.svg" alt="daniilshat" height="60" width="60" /></a>
+<a href="https://t.me/pklyuev" target="blank"><img align="center" src="telegram.svg " alt="daniilshat" height="60" width="60" /></a>
 
 <!--
 **pashtet04/pashtet04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
